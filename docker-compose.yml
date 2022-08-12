@@ -10,4 +10,4 @@ services:
     environment:
       TIME_ZONE: Asia/Karachi
     volumes:
-      - "data:/teamspeak/save/"
+      - "/data:/teamspeak/save/"
