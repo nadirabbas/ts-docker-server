@@ -27,4 +27,3 @@ services:
       MYSQL_DATABASE: teamspeak
 volumes:
   data:
-    external: true
