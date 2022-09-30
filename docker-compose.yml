@@ -13,4 +13,4 @@ services:
       PGID: 1000
       TS3SERVER_LICENSE: accept
     volumes:
-      - "./data:/teamspeak/save/"
+      - "./data:/data"
