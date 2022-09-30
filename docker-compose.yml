@@ -11,5 +11,6 @@ services:
       TIME_ZONE: Asia/Karachi
       PUID: 1000
       PGID: 1000
+      TS3SERVER_LICENSE: accept
     volumes:
       - "./data:/teamspeak/save/"
